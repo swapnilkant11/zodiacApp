@@ -7,7 +7,7 @@ const app = express();
 // This is used to import static files to the project and to display the content of "client" file here.
 app.use(express.static(__dirname + '/client'));
 
-// Port address
+// Port address to find the device.
 const port = process.env.port || 3001;
 
 // Function which displays the message that the server has started.
