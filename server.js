@@ -8,7 +8,7 @@ const app = express();
 app.use(express.static(__dirname + '/client'));
 
 // Port address to find the device.
-const port = process.env.port || 3001;
+const port = process.env.port || 3000;
 
 // Function which displays the message that the server has started.
 app.listen(port, function(){
