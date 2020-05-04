@@ -1,5 +1,5 @@
 # zodiacApp
-zodiac application by nodejs, express, html, css/bootstrap and javascript
+zodiac application by nodejs, express, html, css/bootstrap and javascript where users can search for a particular zodiac sign of their interest and know about it along with the dates where it falls.
 
 ### Link to live application
 <https://evening-gorge-46505.herokuapp.com/?>
